@@ -10,4 +10,4 @@ def main(x,y):
     answer=(x+y)*2
     ans='"('+str(x)+'+'+str(y)+')*2='+str(answer)+'"'
     return ans
-print(main(4,6))    
+    
