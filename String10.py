@@ -8,6 +8,7 @@ def main(x,y):
         str: return answer.
     """
     answer=(x+y)*2
-    return '"('+str(x)+'+'+str(y)+')*2='+str(answer)+'"'
+    ans='('+str(x)+'+'+str(y)+')*2='+str(answer)+''
+    return ans
     
     
